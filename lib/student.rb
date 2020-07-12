@@ -62,5 +62,8 @@ end
     student = self.new(row[0], row[1], row[2])
     student
   end
+  
+  
+  
 
 end
