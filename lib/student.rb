@@ -72,8 +72,4 @@ end
     results = DB[:conn].execute(sql, name)[0]
     self.new_from_db(results)
   end
-  
-  
-  
-
-end
+end 
