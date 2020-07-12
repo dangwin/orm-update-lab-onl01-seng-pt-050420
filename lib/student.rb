@@ -18,10 +18,6 @@ end
       name TEXT,
       grade INTEGER,
       
-      
-      
-      
-      
       )
     
     
